@@ -1,0 +1,14 @@
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\bin\Debug\net6.0\Däscheräschnä.exe
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\bin\Debug\net6.0\Däscheräschnä.deps.json
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\bin\Debug\net6.0\Däscheräschnä.runtimeconfig.json
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\bin\Debug\net6.0\Däscheräschnä.dll
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\bin\Debug\net6.0\Däscheräschnä.pdb
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.AssemblyInfoInputs.cache
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.AssemblyInfo.cs
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.csproj.CoreCompileInputs.cache
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.dll
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\refint\Däscheräschnä.dll
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.pdb
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\Däscheräschnä.genruntimeconfig.cache
+C:\Users\Soi\source\repos\Däscheräschnä\Däscheräschnä\obj\Debug\net6.0\ref\Däscheräschnä.dll
